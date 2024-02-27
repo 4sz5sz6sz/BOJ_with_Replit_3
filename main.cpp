@@ -1,6 +1,11 @@
 #include <iostream>
+using namespace std;
 
-int main() { std::cout << "Hello World!\n"; }
+int main() {
+	cin.tie(0); cout.tie(0);
+	cout << "hello world\n";
+	return 0;
+}
 
 /*
 aa
